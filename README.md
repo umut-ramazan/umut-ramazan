@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Symfony, Laravel, Node JS**
 
-- 👨‍💻 All of my projects are available at [https://yaratıcıfikirler.com](https://yaratıcıfikirler.com)
 
 - 📫 How to reach me **umutramazan26@gmail.com**
 
