@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut Ramazan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umut-ramazan&label=Profile%20views&color=166600&style=flat" alt="umut-ramazan" /> </p>
 
-
-- 🌱 I’m currently learning **Symfony, Laravel, Node JS**
-
-
 - 📫 How to reach me **umutramazan26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
